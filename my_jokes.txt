@@ -1,0 +1,10 @@
+
+A woman finds out her husband is cheating on her.
+
+"I though what we had was real!" she cries
+
+"you were only my initial commit, I decided to branch." he claims
+
+"did you plan on telling me?" she replies
+
+"no! that would result in a merge conflict!!"
